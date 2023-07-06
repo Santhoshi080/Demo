@@ -1,2 +1,2 @@
 #Demo
-this the description of the project demo
+this the description of the demo project
